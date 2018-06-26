@@ -1,0 +1,13 @@
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\bin\Debug\PersonalWordBook.exe.config
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\bin\Debug\PersonalWordBook.exe
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\bin\Debug\PersonalWordBook.pdb
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.个人生词本.resources
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.Properties.Resources.resources
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.单词查询.resources
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.我的单词库.resources
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.请选择生词本的位置cs.resources
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.csproj.GenerateResource.Cache
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.exe
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.pdb
+C:\Users\TP\Desktop\PersonalWordBook\PersonalWordBook\obj\Debug\PersonalWordBook.手动添加窗体.resources
